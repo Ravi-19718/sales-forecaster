@@ -1,0 +1,7 @@
+streamlit
+torch
+plotly
+pandas
+numpy
+scikit-learn
+requests
